@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>A Page with JS</title>
+</head>
+<body>
+     <h1 id="greeting"> Hi! </h1>
+     <p id="example">Lorem ipsum dolor sit amet <br> Yes, this is a random paragraph </p>
+     
+     <button type="button" onclick="modifyColor()">Click Me</button>
+     
+     <script>
+     function modifyColor() {
+         document.getElementById("example").style.color = "aqua";
+         document.getElementById("example").style.backgroundColor = "gray";
+     }
+     </script>
+
+     <script type="text/javascript" src="javascript/main.js"></script>
+</body>
+</html>

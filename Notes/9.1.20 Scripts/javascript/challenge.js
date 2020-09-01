@@ -1,22 +1,3 @@
-// challenge 1
-
-let billAmount = 11.35;
-
-function gratuity(){
-     return billAmount * 0.2
-}
-
-function totalWithGrat(amount){
-     return Number(gratuity() + amount).toFixed(2)
-}
-
-//console.log("your total including gratuity is:", totalWithGrat(billAmount))
-
-//other method for console.logging
-//console.log(`your total, including gratuity is:\$${totalWithGrat(billAmount).toFixed(2)}`)
-
-//Challenge 2
-
 let hands = ["rock", "paper", "scissors"];
 
 function getComputerHand(){
@@ -35,4 +16,18 @@ function compare(userChoice, machineChoice){
      }
 }
 
-console.log(compare(1, getComputerHand()))
+function loadGame(){
+     var userChoice = prompt("Enter your hand:", "r p s");
+     if(userChoice == 'r'){
+          userChoice = 0;
+     }
+     else if(userChoice == 'p'){
+          userChoice = 1;
+     }
+     else{
+          userChoice = 2;
+     }
+     document.getElementById("results").innerHTML = "Results: " + compare(userChoice, getComputerHand())
+}
+
+loadGame()
