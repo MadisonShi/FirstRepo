@@ -1,4 +1,4 @@
-$(document).ready(function() { //making sure function runs after dom is loaded
+/*$(document).ready(function() { //making sure function runs after dom is loaded
 
      //use # for ids
      $("#submit").on('click', function() { //submits on click of button
@@ -26,4 +26,4 @@ $(document).ready(function() { //making sure function runs after dom is loaded
        }
    
      });
-   });
+   });*/
