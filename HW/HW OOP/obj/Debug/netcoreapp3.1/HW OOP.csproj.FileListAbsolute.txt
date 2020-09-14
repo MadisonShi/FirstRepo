@@ -1,0 +1,12 @@
+/Users/Manqi/Desktop/TTS_FullStack/HW/HW OOP/bin/Debug/netcoreapp3.1/HW OOP.deps.json
+/Users/Manqi/Desktop/TTS_FullStack/HW/HW OOP/bin/Debug/netcoreapp3.1/HW OOP.runtimeconfig.json
+/Users/Manqi/Desktop/TTS_FullStack/HW/HW OOP/bin/Debug/netcoreapp3.1/HW OOP.runtimeconfig.dev.json
+/Users/Manqi/Desktop/TTS_FullStack/HW/HW OOP/bin/Debug/netcoreapp3.1/HW OOP.dll
+/Users/Manqi/Desktop/TTS_FullStack/HW/HW OOP/bin/Debug/netcoreapp3.1/HW OOP.pdb
+/Users/Manqi/Desktop/TTS_FullStack/HW/HW OOP/obj/Debug/netcoreapp3.1/HW OOP.csprojAssemblyReference.cache
+/Users/Manqi/Desktop/TTS_FullStack/HW/HW OOP/obj/Debug/netcoreapp3.1/HW OOP.AssemblyInfoInputs.cache
+/Users/Manqi/Desktop/TTS_FullStack/HW/HW OOP/obj/Debug/netcoreapp3.1/HW OOP.AssemblyInfo.cs
+/Users/Manqi/Desktop/TTS_FullStack/HW/HW OOP/obj/Debug/netcoreapp3.1/HW OOP.csproj.CoreCompileInputs.cache
+/Users/Manqi/Desktop/TTS_FullStack/HW/HW OOP/obj/Debug/netcoreapp3.1/HW OOP.dll
+/Users/Manqi/Desktop/TTS_FullStack/HW/HW OOP/obj/Debug/netcoreapp3.1/HW OOP.pdb
+/Users/Manqi/Desktop/TTS_FullStack/HW/HW OOP/obj/Debug/netcoreapp3.1/HW OOP.genruntimeconfig.cache
