@@ -1,0 +1,12 @@
+/Users/Manqi/Desktop/TTS_FullStack/House/bin/Debug/netcoreapp3.1/House.deps.json
+/Users/Manqi/Desktop/TTS_FullStack/House/bin/Debug/netcoreapp3.1/House.runtimeconfig.json
+/Users/Manqi/Desktop/TTS_FullStack/House/bin/Debug/netcoreapp3.1/House.runtimeconfig.dev.json
+/Users/Manqi/Desktop/TTS_FullStack/House/bin/Debug/netcoreapp3.1/House.dll
+/Users/Manqi/Desktop/TTS_FullStack/House/bin/Debug/netcoreapp3.1/House.pdb
+/Users/Manqi/Desktop/TTS_FullStack/House/obj/Debug/netcoreapp3.1/House.csprojAssemblyReference.cache
+/Users/Manqi/Desktop/TTS_FullStack/House/obj/Debug/netcoreapp3.1/House.AssemblyInfoInputs.cache
+/Users/Manqi/Desktop/TTS_FullStack/House/obj/Debug/netcoreapp3.1/House.AssemblyInfo.cs
+/Users/Manqi/Desktop/TTS_FullStack/House/obj/Debug/netcoreapp3.1/House.csproj.CoreCompileInputs.cache
+/Users/Manqi/Desktop/TTS_FullStack/House/obj/Debug/netcoreapp3.1/House.dll
+/Users/Manqi/Desktop/TTS_FullStack/House/obj/Debug/netcoreapp3.1/House.pdb
+/Users/Manqi/Desktop/TTS_FullStack/House/obj/Debug/netcoreapp3.1/House.genruntimeconfig.cache
