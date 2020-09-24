@@ -1,0 +1,12 @@
+/Users/Manqi/Desktop/TTS_FullStack/Notes/9.23.20 Async Programming/bin/Debug/netcoreapp3.1/9.23.20 Async Programming.deps.json
+/Users/Manqi/Desktop/TTS_FullStack/Notes/9.23.20 Async Programming/bin/Debug/netcoreapp3.1/9.23.20 Async Programming.runtimeconfig.json
+/Users/Manqi/Desktop/TTS_FullStack/Notes/9.23.20 Async Programming/bin/Debug/netcoreapp3.1/9.23.20 Async Programming.runtimeconfig.dev.json
+/Users/Manqi/Desktop/TTS_FullStack/Notes/9.23.20 Async Programming/bin/Debug/netcoreapp3.1/9.23.20 Async Programming.dll
+/Users/Manqi/Desktop/TTS_FullStack/Notes/9.23.20 Async Programming/bin/Debug/netcoreapp3.1/9.23.20 Async Programming.pdb
+/Users/Manqi/Desktop/TTS_FullStack/Notes/9.23.20 Async Programming/obj/Debug/netcoreapp3.1/9.23.20 Async Programming.csprojAssemblyReference.cache
+/Users/Manqi/Desktop/TTS_FullStack/Notes/9.23.20 Async Programming/obj/Debug/netcoreapp3.1/9.23.20 Async Programming.AssemblyInfoInputs.cache
+/Users/Manqi/Desktop/TTS_FullStack/Notes/9.23.20 Async Programming/obj/Debug/netcoreapp3.1/9.23.20 Async Programming.AssemblyInfo.cs
+/Users/Manqi/Desktop/TTS_FullStack/Notes/9.23.20 Async Programming/obj/Debug/netcoreapp3.1/9.23.20 Async Programming.csproj.CoreCompileInputs.cache
+/Users/Manqi/Desktop/TTS_FullStack/Notes/9.23.20 Async Programming/obj/Debug/netcoreapp3.1/9.23.20 Async Programming.dll
+/Users/Manqi/Desktop/TTS_FullStack/Notes/9.23.20 Async Programming/obj/Debug/netcoreapp3.1/9.23.20 Async Programming.pdb
+/Users/Manqi/Desktop/TTS_FullStack/Notes/9.23.20 Async Programming/obj/Debug/netcoreapp3.1/9.23.20 Async Programming.genruntimeconfig.cache
