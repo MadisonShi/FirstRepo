@@ -1,0 +1,39 @@
+﻿@*technically my razor page*@
+
+@*@model says that model for this page is of type ListModel
+    Instance of ListModel class is obj that page will use to display info
+    ListModel is class defined in .cs file behind List.cshtml*@
+
+@* @page tells ASP.NET Core that I am a razor page*@
+@*displays list.cshtml.cs's work*@
+
+@page
+@model OdeToFood.Pages.Restaurants.ListModel
+@{
+}
+
+@*adds a header to Restaurants file*@
+<h1>Restaurants</h1>
+
+@*adding a search field*@
+<form method="get"> 
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" asp-for="searchTerm"/>
+        <button class="btn btn-default">Search</button>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    @foreach (var restaurant in Model.Restaurants)
+    {
+        <tr>
+            <td>@restaurant.Name</td>
+            <td>@restaurant.Location</td>
+            <td>@restaurant.Cuisine</td>
+        </tr>
+    }
+</table>
+
+<div>@Model.Message</div> @*how you access List.cshtml.cs methods*@
