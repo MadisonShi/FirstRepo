@@ -1,0 +1,21 @@
+﻿@*@page can
+    1. specify custom route to a page
+    2. append segments toa page's default route
+    3. append params to a page's default route*@
+@page "{restaurantId:int}"
+@model OdeToFood.Pages.Restaurants.DetailModel
+@{
+}
+
+<h2>@Model.Restaurant.Name</h2>
+<div>
+    Id: @Model.Restaurant.Id
+</div>
+<div>
+    Location: @Model.Restaurant.Location
+</div>
+<div>
+    Cuisine: @Model.Restaurant.Cuisine
+</div>
+
+<a asp-page="./List" class="btn btn-lg">All Restaurants</a>

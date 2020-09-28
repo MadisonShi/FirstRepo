@@ -39,3 +39,4 @@
 /Users/Manqi/Desktop/TTS_FullStack/OdeToFood/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/OdeToFood.Data.dll
 /Users/Manqi/Desktop/TTS_FullStack/OdeToFood/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/OdeToFood.Data.pdb
 /Users/Manqi/Desktop/TTS_FullStack/OdeToFood/OdeToFood/OdeToFood/bin/Debug/netcoreapp3.1/OdeToFood.Core.pdb
+/Users/Manqi/Desktop/TTS_FullStack/OdeToFood/OdeToFood/OdeToFood/obj/Debug/netcoreapp3.1/Razor/Pages/Restaurants/Detail.cshtml.g.cs

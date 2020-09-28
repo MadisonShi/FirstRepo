@@ -19,8 +19,7 @@ namespace OdeToFood.Pages.Restaurants
 
         public string Message { get; set; }
         public IEnumerable<Restaurant> Restaurants { get; set; }
-        [BindProperty(SupportsGet =true)] //needs supportsget bc bindpropety only binds post op inputs
-        public string searchTerm { get; set; }
+        [BindProperty(SupportsGet=true)] public string searchTerm { get; set; } //needs supportsget bc bindpropety only binds post op inputs
 
         public ListModel(IConfiguration config, IRestaurantData restaurantData) //constructor that takes in an iconfig
         {
