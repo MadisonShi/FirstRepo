@@ -11,8 +11,10 @@ namespace OdeToFood.Pages.Restaurants
 {
     public class DetailModel : PageModel
     {
-        public Restaurant Restaurant { get; set; }
         private readonly IRestaurantData restaurantData;
+
+        [TempData]public string Message { get; set; }
+        public Restaurant Restaurant { get; set; }
 
         public DetailModel(IRestaurantData restaurantData)
         {
@@ -24,9 +26,19 @@ namespace OdeToFood.Pages.Restaurants
             Restaurant = new Restaurant { Id = 1, Name = "Scott's Pizza", Location = "Maryland", Cuisine = CuisineType.Italian };
         }*/
 
-        public void OnGet(int restaurantId)
+        /*public void OnGet(int restaurantId)
         {
             Restaurant = restaurantData.GetById(restaurantId);
+        }*/
+
+        public IActionResult OnGet(int restaurantId) //catches if page doesn't exist
+        {
+            Restaurant = restaurantData.GetById(restaurantId);
+            if (Restaurant == null)
+            {
+                return RedirectToPage("./NotFound");
+            }
+            return Page();
         }
     }
 }

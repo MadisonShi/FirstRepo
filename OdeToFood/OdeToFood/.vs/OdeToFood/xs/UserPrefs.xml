@@ -2,13 +2,14 @@
   <MonoDevelop.Ide.ItemProperties.OdeToFood PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood/Pages/Restaurants/Detail.cshtml">
     <Files>
-      <File FileName="OdeToFood/Pages/Restaurants/List.cshtml" Line="33" Column="42" />
+      <File FileName="OdeToFood/Pages/Restaurants/List.cshtml" Line="31" Column="13" />
       <File FileName="OdeToFood/Pages/Restaurants/List.cshtml.cs" Line="29" Column="1" />
-      <File FileName="OdeToFood.Data/IRestaurantData.cs" Line="12" Column="62" />
-      <File FileName="OdeToFood.Core/Restaurant.cs" Line="1" Column="1" />
-      <File FileName="OdeToFood/Pages/Detail.cshtml" Line="2" Column="39" />
-      <File FileName="OdeToFood/Pages/Detail.cshtml.cs" Line="19" Column="50" />
-      <File FileName="OdeToFood/Program.cs" Line="16" Column="1" />
+      <File FileName="OdeToFood.Data/IRestaurantData.cs" Line="74" Column="34" />
+      <File FileName="OdeToFood.Core/Restaurant.cs" Line="14" Column="1" />
+      <File FileName="OdeToFood/Pages/Restaurants/Detail.cshtml.cs" Line="16" Column="52" />
+      <File FileName="OdeToFood/Pages/Restaurants/Edit.cshtml" Line="1" Column="87" />
+      <File FileName="OdeToFood/Pages/Restaurants/Edit.cshtml.cs" Line="68" Column="55" />
+      <File FileName="OdeToFood/Pages/Restaurants/Detail.cshtml" Line="14" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,6 +19,7 @@
               <Node name="Pages" expanded="True">
                 <Node name="Restaurants" expanded="True">
                   <Node name="Detail.cshtml" expanded="True" selected="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
                   <Node name="List.cshtml" expanded="True" />
                 </Node>
                 <Node name="Index.cshtml" expanded="True" />
@@ -29,9 +31,6 @@
             <Node name="OdeToFood.Data" expanded="True" />
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

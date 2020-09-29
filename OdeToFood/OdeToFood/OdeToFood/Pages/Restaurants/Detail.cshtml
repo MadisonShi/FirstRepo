@@ -1,10 +1,17 @@
 ﻿@*@page can
-    1. specify custom route to a page
-    2. append segments toa page's default route
-    3. append params to a page's default route*@
+    1. specify custom route to a page ex: @page "/Some/Other/Path"
+    2. append segments toa page's default route ex: @page "item" item is added to default route
+    3. append params to a page's default route ex: @page "{id} id is required for a page*@ 
+
+@*new URL for details page is /Restaurants/Detail/restaurant id #*@
+
 @page "{restaurantId:int}"
 @model OdeToFood.Pages.Restaurants.DetailModel
 @{
+}
+
+@if(Model.Message != null){
+    <div class="alert alert-info">@Model.Message</div>
 }
 
 <h2>@Model.Restaurant.Name</h2>
