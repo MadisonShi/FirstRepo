@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{48B2490C-4FB2-416D-A83B-716931D5DA70}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContosoCrafts/Controller/ProductsController.cs">
+    <Files>
+      <File FileName="ContosoCrafts/Startup.cs" Line="34" Column="1" />
+      <File FileName="ContosoCrafts/wwwroot/css/site.css" Line="155" Column="1" />
+      <File FileName="ContosoCrafts/Controller/Products.cs" Line="32" Column="70" />
+      <File FileName="ContosoCrafts/Services/JsonFileProductsService.cs" Line="60" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContosoCrafts" expanded="True">
+            <Node name="ContosoCrafts" expanded="True">
+              <Node name="Controller" expanded="True">
+                <Node name="ProductsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="data" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ContosoCrafts PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
