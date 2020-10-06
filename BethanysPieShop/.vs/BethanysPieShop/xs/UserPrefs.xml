@@ -1,17 +1,31 @@
-﻿<Properties StartupConfiguration="{F337563C-077A-48BA-9AF9-429A831C4775}|Default">
-  <MonoDevelop.Ide.ItemProperties.BethanysPieShop FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/Startup.cs">
+﻿<Properties StartupConfiguration="{69822516-CC45-4DC7-B61C-07BF5ECC7FF0}|Default">
+  <MonoDevelop.Ide.ItemProperties.BethanysPieShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanysPieShop/Views/_ViewImports.cshtml">
     <Files>
-      <File FileName="BethanysPieShop/Startup.cs" Line="59" Column="10" />
+      <File FileName="BethanysPieShop/Models/MockCategoryRepository.cs" Line="16" Column="15" />
+      <File FileName="BethanysPieShop/Models/Category.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Controllers/PieController.cs" Line="29" Column="64" />
+      <File FileName="BethanysPieShop/Models/MockPieRepository.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Models/IPieRepository.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Models/ICategoryRepository.cs" Line="1" Column="1" />
+      <File FileName="BethanysPieShop/Views/Pie/List.cshtml" Line="24" Column="15" />
+      <File FileName="BethanysPieShop/Startup.cs" Line="25" Column="9" />
+      <File FileName="BethanysPieShop/ViewModels/PiesListViewModel.cs" Line="10" Column="50" />
+      <File FileName="BethanysPieShop/Views/_ViewImports.cshtml" Line="4" Column="1" />
+      <File FileName="BethanysPieShop/Views/_ViewStart.cshtml" Line="4" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BethanysPieShop" expanded="True">
             <Node name="BethanysPieShop" expanded="True">
-              <Node name="Pages" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Pie" expanded="True" />
+                <Node name="_ViewImports.cshtml" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
